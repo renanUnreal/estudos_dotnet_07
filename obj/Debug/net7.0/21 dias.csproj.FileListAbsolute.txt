@@ -1,0 +1,14 @@
+D:\@Renan\@TORNE_SE_UMPROGRAMADOR_COMUNIDADE\Logica programacao dotnet7\21 dias\bin\Debug\net7.0\21 dias.exe
+D:\@Renan\@TORNE_SE_UMPROGRAMADOR_COMUNIDADE\Logica programacao dotnet7\21 dias\bin\Debug\net7.0\21 dias.deps.json
+D:\@Renan\@TORNE_SE_UMPROGRAMADOR_COMUNIDADE\Logica programacao dotnet7\21 dias\bin\Debug\net7.0\21 dias.runtimeconfig.json
+D:\@Renan\@TORNE_SE_UMPROGRAMADOR_COMUNIDADE\Logica programacao dotnet7\21 dias\bin\Debug\net7.0\21 dias.dll
+D:\@Renan\@TORNE_SE_UMPROGRAMADOR_COMUNIDADE\Logica programacao dotnet7\21 dias\bin\Debug\net7.0\21 dias.pdb
+D:\@Renan\@TORNE_SE_UMPROGRAMADOR_COMUNIDADE\Logica programacao dotnet7\21 dias\obj\Debug\net7.0\21 dias.GeneratedMSBuildEditorConfig.editorconfig
+D:\@Renan\@TORNE_SE_UMPROGRAMADOR_COMUNIDADE\Logica programacao dotnet7\21 dias\obj\Debug\net7.0\21 dias.AssemblyInfoInputs.cache
+D:\@Renan\@TORNE_SE_UMPROGRAMADOR_COMUNIDADE\Logica programacao dotnet7\21 dias\obj\Debug\net7.0\21 dias.AssemblyInfo.cs
+D:\@Renan\@TORNE_SE_UMPROGRAMADOR_COMUNIDADE\Logica programacao dotnet7\21 dias\obj\Debug\net7.0\21 dias.csproj.CoreCompileInputs.cache
+D:\@Renan\@TORNE_SE_UMPROGRAMADOR_COMUNIDADE\Logica programacao dotnet7\21 dias\obj\Debug\net7.0\21 dias.dll
+D:\@Renan\@TORNE_SE_UMPROGRAMADOR_COMUNIDADE\Logica programacao dotnet7\21 dias\obj\Debug\net7.0\refint\21 dias.dll
+D:\@Renan\@TORNE_SE_UMPROGRAMADOR_COMUNIDADE\Logica programacao dotnet7\21 dias\obj\Debug\net7.0\21 dias.pdb
+D:\@Renan\@TORNE_SE_UMPROGRAMADOR_COMUNIDADE\Logica programacao dotnet7\21 dias\obj\Debug\net7.0\21 dias.genruntimeconfig.cache
+D:\@Renan\@TORNE_SE_UMPROGRAMADOR_COMUNIDADE\Logica programacao dotnet7\21 dias\obj\Debug\net7.0\ref\21 dias.dll
